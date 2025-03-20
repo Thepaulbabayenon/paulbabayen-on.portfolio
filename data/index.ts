@@ -49,8 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
+    title: "Currently building a film streaming site for Guimbal iFilm Society",
+    description: "Thebantayanfilmfestival",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -88,11 +88,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Thebantayanfilmfestival",
+    des: "A custom-hybrid recommendation film streaming platform for the Guimbal iFilm Society..",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://apple-website-copy.vercel.app/",
+    link: "https://www.thebantayanfilmfestival.com/",
   },
   {
     id: 4,
